@@ -305,8 +305,8 @@ GigPilot uses a freemium model designed around the Indian gig economy:
 | Tier | Price | Features |
 |---|---|---|
 | Free | ₹0 | Basic dashboard, earnings log, 3 app support |
-| Pro | ₹49–₹79/mo | Smart recommendations, all apps, analytics, fuel tracker |
-| Fleet | ₹500–₹2000/mo | Multi-rider dashboard, aggregated insights, priority support |
+| Pro | ₹9–₹49/mo | Smart recommendations, all apps, analytics, fuel tracker |
+| Fleet | ₹50–₹100/mo | Multi-rider dashboard, aggregated insights, priority support |
 
 Revenue streams also include affiliate partnerships (fuel apps, insurance, microloans) and anonymised aggregate data insights for logistics and urban planning use cases.
 
